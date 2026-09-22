@@ -1,3 +1,6 @@
+> **Project evolution:** This is the original version of the lab.  
+> The improved version, with Docker-based deployment and additional integrations, is available in `nginx-multisite-lab-V2`.
+
 Nginx Multi-Site Lab (Local Dev Environment)
 
 This repository documents a small hands-on lab where I configured Nginx to serve multiple websites on the same machine using different hostnames.
